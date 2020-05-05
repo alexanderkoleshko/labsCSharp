@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alexanderkoleshko/Desktop/labsCSharp/lab3-5-6-8/lab6/lab6.csproj": {}
+  },
+  "projects": {
+    "/Users/alexanderkoleshko/Desktop/labsCSharp/lab3-5-6-8/lab6/lab6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexanderkoleshko/Desktop/labsCSharp/lab3-5-6-8/lab6/lab6.csproj",
+        "projectName": "lab6",
+        "projectPath": "/Users/alexanderkoleshko/Desktop/labsCSharp/lab3-5-6-8/lab6/lab6.csproj",
+        "packagesPath": "/Users/alexanderkoleshko/.nuget/packages/",
+        "outputPath": "/Users/alexanderkoleshko/Desktop/labsCSharp/lab3-5-6-8/lab6/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alexanderkoleshko/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/alexanderkoleshko/.dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
